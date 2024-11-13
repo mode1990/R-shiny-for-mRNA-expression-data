@@ -39,12 +39,6 @@ Input a gene name (e.g., TSPAN6) in the text box.
 The app will process the data and display interactive violin plots showing log-transformed expression values for the selected gene.
 Directory Structure
 
-/mRNA-seq-Visualization
-  ├── app.R                # Shiny app file
-  ├── /data                # Folder to store your input files
-  ├── README.md            # Project documentation
-  └── /images              # Optional: any images for project documentation
-
 
  
 The app expects data in the following format:
