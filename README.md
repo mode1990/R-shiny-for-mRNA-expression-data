@@ -24,7 +24,7 @@ Usage
 1. Clone the Repository
 First, clone the repository to your local machine:
 
-git clone https://github.com/your-username/mRNA-seq-Visualization.git
+git clone https://github.com/Mode1990/R-shiny-for-mRNA-expression-data.git
 2. Run the Shiny App
 Once the repository is cloned, navigate to the app directory in RStudio or your preferred R environment and run the app using:
 
