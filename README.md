@@ -44,8 +44,9 @@ Directory Structure
   ├── /data                # Folder to store your input files
   ├── README.md            # Project documentation
   └── /images              # Optional: any images for project documentation
-Example Data
 
+
+ 
 The app expects data in the following format:
 
 Plate Files (e.g., Plate1_rep1.tsv)
