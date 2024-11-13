@@ -8,6 +8,7 @@ Interactive Data Upload: Upload multiple datasets (e.g., from different plates a
 Gene Selection: Select genes of interest for visualization (e.g., TSPAN6).
 Violin Plot Visualization: Display interactive violin plots of log-transformed expression data using Plotly.
 Data Processing: The app performs necessary preprocessing, including log transformation and gene symbol mapping.
+
 Installation
 
 Prerequisites
